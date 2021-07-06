@@ -38,6 +38,13 @@ li {
     background-image: linear-gradient(to right, #0c3150, #20308a, #23a0f3);
 }
 
+.navigation li a:hover {
+    color: black;
+    font-weight: bolder;
+    background-image: linear-gradient(to left, purple, deeppink, pink);
+    font-size: 20px;
+}
+
 .left {
     width: 40%;
     margin-left: 8rem;
