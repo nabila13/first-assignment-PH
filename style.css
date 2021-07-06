@@ -216,6 +216,29 @@ footer span {
     background-image: url("images/back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 40px 40px;
-    text-align: center;
+    padding: 20px 20px 50px 10px;
+    text-align: left;
+    justify-content: flex-start;
+}
+
+.hold {
+    width: 40%;
+    margin-left: 30px;
+    background-image: linear-gradient(to left, #6565f8, #0e91c5, #16bdaf);
+    border-radius: 25px;
+    height: 80%;
+    margin-right: 30px;
+    box-shadow: 0 0 10px 10px gray;
+    padding: 20px 10px 20px 20px;
+}
+
+.visit {
+    width: 45%;
+    margin-left: 20px;
+    background-image: linear-gradient(to left, #6565f8, #0e91c5, #16bdaf);
+    border-radius: 25px;
+    height: 80%;
+    margin-right: 20px;
+    box-shadow: 0 0 10px 10px gray;
+    padding: 20px 10px 20px 20px;
 }
