@@ -204,3 +204,10 @@ footer span {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: aqua;
 }
+
+#contact {
+    background-image: url("/images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 20px;
+}
