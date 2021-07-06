@@ -4,7 +4,7 @@ body {
 }
 
 #top {
-    background-image: url("images/bk.jpg");
+    background-image: url("/images/bk.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -113,7 +113,7 @@ li {
 }
 
 #middle {
-    background-image: url("images/bk2.jpg");
+    background-image: url("/images/bk2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -124,7 +124,7 @@ li {
 
 #bottom {
     padding: 40px 10px 70px 30px;
-    background-image: url("images/back3.jpg");
+    background-image: url("/images/back3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -206,7 +206,7 @@ footer span {
 }
 
 #contact {
-    background-image: url("images/back.jpg");
+    background-image: url("/images/back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 40px 20px;
